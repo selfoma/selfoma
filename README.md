@@ -1,5 +1,6 @@
 ## ✨✨ Welcome! ✨✨
 
+- 🧑‍💻 Prev. **CS** @ Novosibrsk State University
 - 🧑‍🎓 Cur. **ML & Big Data** @ MSc x YSDA at NSU
 - 💻 Focused on becoming an **ML Engineer**
 
